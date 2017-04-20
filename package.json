@@ -1,0 +1,23 @@
+{
+  "name": "rorshachbot",
+  "version": "1.0.0",
+  "description": "slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/icartusacrimea/rorschachbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icartusacrimea/rorschachbot/issues"
+  },
+  "homepage": "https://github.com/icartusacrimea/rorschachbot#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
